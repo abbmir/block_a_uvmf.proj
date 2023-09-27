@@ -19,3 +19,4 @@ uvmf:
       reset_duration: 250ns
       top_env: block_a
       use_dpi_link: 'False'
+      veloce_ready: 'False'
